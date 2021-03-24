@@ -20,6 +20,14 @@ $ python "main.py"
 $ python main.py
 ```
 
+## Example
+```
+  R1: Platform Birds With Eggs (Original)
+  R2: Birds in One Row (European)
+  R3: Beak Pointing Left (Oceania)
+  R4: White & No Powers (European)
+```
+
 ## Contact
 For any questions, comments, or concerns:
 * Email: mredamanhuri@gmail.com
