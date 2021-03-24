@@ -28,6 +28,9 @@ $ python main.py
   R4: White & No Powers (European)
 ```
 
+## Credits
+[Elizabeth Hargrave and Stonemaier Games](https://stonemaiergames.com/games/wingspan/) for creating the wonderful board game of Wingspan! This tool is not associated with them, but hopefully adds to the enjoyment of the game.
+
 ## Contact
 For any questions, comments, or concerns:
 * Email: mredamanhuri@gmail.com
