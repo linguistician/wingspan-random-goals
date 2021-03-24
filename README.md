@@ -1,7 +1,7 @@
 # Goal Randomizer for Wingspan
 This is a script that provides 4 random round goals for a game in Wingspan.
 
-## General info
+## Info
 The goals are selected from the tiles in the base game, European Expansion, and Oceania Expansion.
 
 ## Setup
