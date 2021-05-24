@@ -13,10 +13,10 @@ Run `main.py` in your editor or command line with [Python](https://www.python.or
 ```
 $ cd <script directory>
 
-# Windows
+#Windows
 $ python "main.py"
 
-# Mac/Linux
+#Mac/Linux
 $ python main.py
 ```
 
