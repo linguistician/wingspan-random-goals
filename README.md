@@ -34,4 +34,4 @@ $ python main.py
 ## Contact
 For any questions, comments, or concerns:
 * Email: mredamanhuri@gmail.com
-* Twitter: [@cheesymallets](https://twitter.com/cheesymallets)
+* Twitter: [@MuhaDamanhuri](https://twitter.com/MuhaDamanhuri)
