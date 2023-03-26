@@ -7,7 +7,7 @@ The goals are selected from the tiles in the base game, European Expansion, and 
 ## Setup
 Download the project through Code, or through [Git](https://git-scm.com/downloads) in the command line:
 ```
-$ git clone https://github.com/muhadamanhuri/wingspan-random-goals.git
+$ git clone https://github.com/linguistician/wingspan-random-goals.git
 ```
 Run `main.py` in your editor or command line with [Python](https://www.python.org/downloads/):
 ```
